@@ -1,0 +1,25 @@
+{
+  "name": "chalk-install",
+  "version": "1.0.1",
+  "description": "Testing out JSON files",
+  "main": "1",
+  "scripts": {
+    "test": "123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richard135/chalk-install.git"
+  },
+  "keywords": [
+    "install"
+  ],
+  "author": "Richard",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/richard135/chalk-install/issues"
+  },
+  "homepage": "https://github.com/richard135/chalk-install#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
